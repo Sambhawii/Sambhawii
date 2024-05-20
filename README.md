@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **DSA,JAVA,MYSQL,C**
+- 💬 Ask me about **DSA and OOPS with JAVA, SQL ,MEVN**
 
 - 📫 How to reach me **sambhawii.333@gmail.com**
 
